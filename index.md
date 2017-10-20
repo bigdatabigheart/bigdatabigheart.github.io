@@ -36,7 +36,7 @@ Read [Epilepsy Queensland Challenges](https://github.com/bigdatabigheart/2017-ch
 </p>
 
 
-### Life Flight
+### Life Flight 
 Operating 13 helicopters and 5 fixed wing aircraft across Queensland, Life Flight's aeromedical retrieval personnel transport patients from accident sites and remote hospitals to care facilities throughout the State.
 
 Read [Life Flight Challenges - COMING SOON]().
